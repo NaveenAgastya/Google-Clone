@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.top{
+    display: flex;
+   justify-content: flex-end;
+    margin: 20px;
+    gap: 20px;
+}
+
+.main{
+    margin:200px 500px 50px 450px;
+    font-size: 80px;
+    color: #356a35;
+    text-align: center;
+}
+
+input{
+    width: 500px;
+    border-radius: 20px;
+    border: 2px solid #B6F2AF;  
+}
+
+input:hoverx{
+    border: 2px solid #356a35;
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.body{
+    display: flex;
+    gap: 10px;
+    width: 450px;
+    height: 30px;
+    border: 1px solid white;
+}
+
+.searcicon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.mic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.cam{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.add{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:30px;
+    gap: 50px;
+}
+
+.add1{
+    background-color: #B6F2AF;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+
+.add2{
+    background-color: #B6F2AF;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+
+.add3{
+    background-color: #B6F2AF;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+
+.add4{
+    background-color: #B6F2AF;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+
+.shortcut{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 10px;
+}
+
+.footer{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.edit{
+    background-color: #B6F2AF;
+    height: 40px;
+    width: 160px;
+    margin-top: 280px;
+    margin-right: 10px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+
+
